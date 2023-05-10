@@ -1,0 +1,5 @@
+﻿  student.cpp
+C:\Users\HP\source\repos\StudentManagementITCproject\StudentManagementITCproject\student.cpp(50,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\StudentManagementITCproject\StudentManagementITCproject\student.cpp(176,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\StudentManagementITCproject\StudentManagementITCproject\student.cpp(178,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  StudentManagementITCproject.vcxproj -> C:\Users\HP\source\repos\StudentManagementITCproject\Debug\StudentManagementITCproject.exe
