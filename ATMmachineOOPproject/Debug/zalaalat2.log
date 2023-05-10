@@ -1,0 +1,4 @@
+﻿  ATM.cpp
+C:\Users\HP\source\repos\zalaalat2\zalaalat2\ATM.cpp(147,21): warning C4101: 'total_rem': unreferenced local variable
+C:\Users\HP\source\repos\zalaalat2\zalaalat2\ATM.cpp(147,8): warning C4101: 'rem_balance': unreferenced local variable
+  zalaalat2.vcxproj -> C:\Users\HP\source\repos\zalaalat2\Debug\zalaalat2.exe
